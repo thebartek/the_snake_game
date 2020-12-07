@@ -1,4 +1,4 @@
-package com.codegym.task.task23.task2312;
+package me.BartlomiejMarczuk;
 
 public class Mouse {
     private int x;
